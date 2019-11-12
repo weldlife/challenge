@@ -27,7 +27,7 @@ Funcionalidades
 2) Para um determinado e-mail, devolva todos os seus códigos válidos com o nome do Oferta Especial
 3) Para um determinado e-mail e cdigo, caso o cdigo seja válido, retorne o desconto percentual e defina o data de uso
 
-( opcional ) Criar uma paǵna para consumo das APIs
+( opcional ) Criar uma página para consumo das APIs
 
 ## Requisitos
 - Forkar esse desafio e criar o seu projeto (ou workspace) usando a sua versão desse repositório, tão logo acabe o desafio, submeta um pull request.
