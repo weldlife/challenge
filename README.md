@@ -10,6 +10,6 @@ Quanto mais itens forem atendidos, mais critérios serão avaliados e mais chanc
 
 [Registro de Entrada](checkin.md)
 
-[API de Promoção](promotion.md)
+[API de Promoção](promotion-api.md)
 
 Escolha um sistema e boa sorte!
